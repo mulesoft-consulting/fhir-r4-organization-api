@@ -1,4 +1,4 @@
 mongodb:
   database: "fhir"
 anypoint:
-  autodiscovery: "16356340"
+  autodiscovery: "16457505"
